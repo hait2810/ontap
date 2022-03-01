@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "name": "Hai Nguyen Van",
+      "img": "http://media.doisongphapluat.com/699/2020/10/13/thieu-gia-ha-thanh-cong-khai-tinh-moi-dan-mang-dung-hinh-truoc-nhan-sac-cuc-pham-3-vong-quyen-ru-dspl-6.jpg",
+      "price": "141294",
+      "desc": "hahaaa",
+      "id": 1
+    },
+    {
+      "name": "logaa",
+      "img": "https://3.bp.blogspot.com/-2fevx1sbXj8/WYwwz4I64dI/AAAAAAAAGRQ/1TOiWjiJgUML48vWjx0YXOGIWt8kKlVcwCLcBGAs/s1600/gai-xinh-facebook-mai-trang-nguyen2.jpg",
+      "price": "141294",
+      "desc": "hahaaa",
+      "id": 3
+    },
+    {
+      "name": "logaa",
+      "img": "https://3.bp.blogspot.com/-2fevx1sbXj8/WYwwz4I64dI/AAAAAAAAGRQ/1TOiWjiJgUML48vWjx0YXOGIWt8kKlVcwCLcBGAs/s1600/gai-xinh-facebook-mai-trang-nguyen2.jpg",
+      "price": "141294",
+      "desc": "hahaaa",
+      "id": 4
+    },
+    {
+      "name": "logaa",
+      "img": "https://3.bp.blogspot.com/-2fevx1sbXj8/WYwwz4I64dI/AAAAAAAAGRQ/1TOiWjiJgUML48vWjx0YXOGIWt8kKlVcwCLcBGAs/s1600/gai-xinh-facebook-mai-trang-nguyen2.jpg",
+      "price": "141294",
+      "desc": "hahaaa",
+      "id": 5
+    },
+    {
+      "name": "logaa",
+      "img": "https://3.bp.blogspot.com/-2fevx1sbXj8/WYwwz4I64dI/AAAAAAAAGRQ/1TOiWjiJgUML48vWjx0YXOGIWt8kKlVcwCLcBGAs/s1600/gai-xinh-facebook-mai-trang-nguyen2.jpg",
+      "price": "141294",
+      "desc": "hahaaa",
+      "id": 6
+    },
+    {
+      "name": "logaa",
+      "img": "https://3.bp.blogspot.com/-2fevx1sbXj8/WYwwz4I64dI/AAAAAAAAGRQ/1TOiWjiJgUML48vWjx0YXOGIWt8kKlVcwCLcBGAs/s1600/gai-xinh-facebook-mai-trang-nguyen2.jpg",
+      "price": "141294",
+      "desc": "hahaaa",
+      "id": 7
+    },
+    {
+      "name": "Hảiaa",
+      "img": "https://3.bp.blogspot.com/-2fevx1sbXj8/WYwwz4I64dI/AAAAAAAAGRQ/1TOiWjiJgUML48vWjx0YXOGIWt8kKlVcwCLcBGAs/s1600/gai-xinh-facebook-mai-trang-nguyen2.jpg",
+      "price": "141294",
+      "desc": "hahaaa",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "createdAt": "2022-02-28T08:00:17.994Z",
+      "name": "Danh muc 1",
+      "id": "1"
+    },
+    {
+      "createdAt": "2022-02-28T09:24:58.509Z",
+      "name": "Danh muc 2",
+      "id": "2"
+    },
+    {
+      "createdAt": "2022-02-28T11:17:33.898Z",
+      "name": "Danh muc 3",
+      "id": "3"
+    },
+    {
+      "createdAt": "2022-02-28T01:16:26.099Z",
+      "name": "Danh muc 4",
+      "id": "4"
+    }
+  ]
+}
