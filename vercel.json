@@ -5,7 +5,7 @@
             "dest": "/"
         },
         {
-            "src": "/news",
+            "src": "/products",
             "dest": "/"
         }
     ]
