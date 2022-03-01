@@ -20,7 +20,7 @@ const products = {
         <td  class="border-[1px] border-solid-green-500">${item.price}</td>
         <td  class="border-[1px] border-solid-green-500">${item.desc}</td>
         <td  class="border-[1px] border-solid-green-500"><button data-id="${item.id}" class="btn btn-del bg-blue-300 p-[5px]">Xoá</button></td>
-        <td  class="border-[1px] border-solid-green-500"><a href="/product/${item.id}/edit">Edit</a></td>
+        <td  class="border-[1px] border-solid-green-500"><a href="/#/product/${item.id}/edit">Edit</a></td>
       </tr>
         `).join("")}
     </table>
